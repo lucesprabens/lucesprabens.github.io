@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
+    <p>363 Warren Hall</p>
+    <p>Cornell University</p>
     <p>Ithaca, NY 14850</p>
 
 news: true  # includes a list of news items
