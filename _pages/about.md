@@ -20,3 +20,5 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 I'm a third year PhD student in the Dyson School of Applied Economics and Management at Cornell University. My research interests are in environmental and urban economics, focusing on adaptation to climate change.
+
+Work in Progress:

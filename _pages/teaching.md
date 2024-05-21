@@ -8,7 +8,6 @@ nav_order: 5
 ---
 
 # Teaching Assistant:
-
 Cornell University
 - AEM 1500 An Introduction to the Economics of Environmental and Natural Resources
 - AEM 2500 Environmental and Resource Economics
