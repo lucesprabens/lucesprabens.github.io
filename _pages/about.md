@@ -21,6 +21,8 @@ social: true  # includes social icons at the bottom of the page
 
 I'm a third year PhD student in the Dyson School of Applied Economics and Management at Cornell University. 
 
-My research interests are primarily in environmental and urban economics, focusing on adaptation to climate change.
+My primary research interests are in environmental and urban economics, focusing on adaptation to climate change.
 
-Please find my CV [here](https://lucesprabens.github.io/assets/pdf/esprabens_cv.pdf).
+Please find my current CV [here](https://lucesprabens.github.io/assets/pdf/esprabens_cv.pdf).
+
+I can be reached at [lme56@cornell.edu](mailto:lme56@cornell.edu).
