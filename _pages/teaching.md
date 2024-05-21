@@ -1,13 +1,13 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: 
+description: 
 nav: true
 nav_order: 5
 ---
 
-Teaching Assistant:
+# Teaching Assistant:
 
 Cornell University
 - AEM 1500 An Introduction to the Economics of Environmental and Natural Resources
@@ -18,6 +18,6 @@ Cornell University
 University of California, San Diego
 - ECON 110A Macroeconomics A
 
-Grader
+# Grader:
 Barnard College
 - ECON BC3039 Environmental and Natural Resource Economics
