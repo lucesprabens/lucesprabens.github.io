@@ -25,4 +25,4 @@ My primary research interests are in environmental and urban economics, focusing
 
 Please find my current CV [here](https://lucesprabens.github.io/assets/pdf/esprabens_cv.pdf).
 
-Email: [lme56@cornell.edu](mailto:lme56@cornell.edu).
+Email: [lme56@cornell.edu](mailto:lme56@cornell.edu)
