@@ -9,7 +9,7 @@ nav_order: 3
 
 ### Work in progress
 
-**Welfare Implications of Public Climate-Adaptation Mechanisms: Evidence from Cooling Centers**
+**Valuing Public Locations as a form Climate Adaptation: Evidence from Cooling Centers**
 
 **The Economic Value of State Parks: Revealed Preference Estimates Using Cell Phone Data** (with Gemma Del Rossi, Catherine Kling, Anthony Ponce, and Ivan Rudik)
 
