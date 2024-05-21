@@ -7,7 +7,9 @@ nav: true
 nav_order: 2
 ---
 
-## Work in progress
+### Work in progress
+
+###
 
 **Welfare Implications of Public Climate-Adaptation Mechanisms: Evidence from Cooling Centers**
 

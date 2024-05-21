@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 ---
 
-## Teaching Assistant:
+### Teaching Assistant:
 
 **Cornell University**
 - AEM 1500 An Introduction to the Economics of Environmental and Natural Resources (Spring 2023)
@@ -18,6 +18,6 @@ nav_order: 3
 **University of California, San Diego**
 - ECON 110A Macroeconomics A (Spring 2019)
 
-## Grader:
+### Grader:
 **Barnard College**
 - ECON BC3039 Environmental and Natural Resource Economics (Spring 2023, Fall 2023)
