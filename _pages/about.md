@@ -16,7 +16,7 @@ profile:
 work_in_progress: true # includes a list of works in progress
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
 
 I'm a third year PhD student in the Dyson School of Applied Economics and Management at Cornell University. 
