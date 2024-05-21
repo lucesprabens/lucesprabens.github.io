@@ -8,10 +8,10 @@ profile:
   align: left # used to be right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>363 Warren Hall</p>
-    <p>Cornell University</p>
-    <p>Ithaca, NY 14853</p>
+  address: #>
+    # <p>363 Warren Hall</p>
+    # <p>Cornell University</p>
+    # <p>Ithaca, NY 14853</p>
 
 work_in_progress: true # includes a list of works in progress
 news: false  # includes a list of news items
@@ -25,4 +25,4 @@ My primary research interests are in environmental and urban economics, focusing
 
 Please find my current CV [here](https://lucesprabens.github.io/assets/pdf/esprabens_cv.pdf).
 
-I can be reached at [lme56@cornell.edu](mailto:lme56@cornell.edu).
+Email: [lme56@cornell.edu](mailto:lme56@cornell.edu).
