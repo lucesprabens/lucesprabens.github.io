@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I'm a third year PhD student in the Dyson School of Applied Economics and Management at Cornell University. 
+I'm a PhD student in the Dyson School of Applied Economics and Management at Cornell University. 
 
 My primary research interests are in environmental and urban economics, focusing on adaptation to climate change.
 
