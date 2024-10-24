@@ -10,6 +10,8 @@ nav_order: 4
 ### Teaching Assistant:
 
 **Cornell University**
+* AEM 6991 MPS Research Seminar I (Fall 2024)
+    * Dr. Mark Constas
 * AEM 1500 An Introduction to the Economics of Environmental and Natural Resources (Spring 2023)
     * Dr. Catherine Kling 
 * AEM 2500 Environmental and Resource Economics (Fall 2022)
