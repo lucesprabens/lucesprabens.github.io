@@ -20,7 +20,7 @@ nav_order: 4
     * Dr. Jura Liaukonyte
 * AEM 3320/6325 Leadership and Management in Sports (Fall 2020)
     * Dr. Kevin Kniffin
-
+test
 **University of California, San Diego**
 * ECON 110A Macroeconomics A (Spring 2019)
     * Dr. Maria Candido
