@@ -124,7 +124,7 @@ author:
   links:
     - label: "CV"
       icon: "far fa-fw fa-file-pdf"
-      url: "assets/cv/esprabens_cv.pdf"
+      url: "assets/files/esprabens_cv.pdf"
     - label: "lme56@cornell.edu"
       icon: "fas fa-fw fa-square-envelope"
       url: "mailto:lme56@cornell.edu"
