@@ -115,7 +115,7 @@ analytics:
 # Site Author
 author:
   name             : "Luc Esprabens"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/prof_pic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Applied Economics PhD student at Cornell University"
   # location         : "Ithaca, NY"
   cv : "CV"
