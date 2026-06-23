@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "catppuccin_latte" #"default" # "air", "aqua", "contr
 # Site Settings
 locale                   : "en-US"
 direction                : # "ltr" (default), "rtl" # set the direction of the page
-title                    : "Luc M. Esprabens"
+title                    : "Luc Esprabens"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Luc M. Esprabens"
