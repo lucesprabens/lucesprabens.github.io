@@ -116,8 +116,8 @@ analytics:
 author:
   name             : "Luc Esprabens"
   avatar           : "/assets/images/IMG_4700_cropped.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Applied Economics PhD student at Cornell University"
-  # location         : "Ithaca, NY"
+  bio              : "Applied Economics PhD Candidate"
+  location         : "Cornell University"
   # cv : "CV"
   lme56@cornell.edu            : "lme56@cornell.edu"
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
