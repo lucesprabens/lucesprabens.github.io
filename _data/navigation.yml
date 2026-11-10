@@ -4,6 +4,8 @@ main:
   #   url: /
   - title: "About"
     url: /
+  - title: "Job Market Paper"
+    url: //assets/files/main_draft.pdf
   - title: "Research"
     url: /research/
   - title: "Teaching"
